@@ -1,0 +1,27 @@
+[APIConfig]
+nhl_tor_token = nhl_tor
+nhl_tor_key = 322dbd8c524fb8a4b0b9
+
+mls_tor_token = mls_tor
+mls_tor_key = c3aedc7bc68e07f72c59
+
+nba_tor_token = nba_tor
+nba_tor_key = ac6a8ecb2861670e933a
+
+[ADL]
+tenant_id = 6580907a-5d4b-41af-9d7f-3e849c1afafb
+client_secret = 1Uy8JLH8FVDKXbsehMLPp9K9RLonEMpw2I8kDSuKY5I=
+client_id = d66366c6-0fc3-41c9-a9fd-cb229411be2d
+store_name = mlse1
+
+[SQLDB]
+server = mlsedb.database.windows.net
+username = lixar
+password = pwd4L!xar
+driver = {ODBC Driver 13 for SQL Server}
+database = mlse_sqldb
+
+[BLOB]
+
+account_name = nhl4sam1ingest
+account_key = KjIjuCluKTRhQAn4xNfW4eacIdeNhTLBNkeuRm40/3Di43nf2MW9ByT7XKH5NSDqsYVkKWJ6shRcg8NjpZHQDg==
